@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-Lawson_App-1.0";
+const cacheName = "DefaultCompany-Lawson_App-0.1.4";
 const contentToCache = [
     "Build/DigitalPopSimulatorWeb.loader.js",
     "Build/DigitalPopSimulatorWeb.framework.js",
