@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Lawson_App-1.0";
 const contentToCache = [
     "Build/DigitalPopSimulatorWeb.loader.js",
-    "Build/DigitalPopSimulatorWeb.framework.js.br",
-    "Build/DigitalPopSimulatorWeb.data.br",
-    "Build/DigitalPopSimulatorWeb.wasm.br",
+    "Build/DigitalPopSimulatorWeb.framework.js",
+    "Build/DigitalPopSimulatorWeb.data",
+    "Build/DigitalPopSimulatorWeb.wasm",
     "TemplateData/style.css"
 
 ];
